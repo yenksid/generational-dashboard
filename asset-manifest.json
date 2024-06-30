@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/generational-dashboard/static/css/main.92c8d4eb.css",
+    "main.js": "/generational-dashboard/static/js/main.47fa4b48.js",
+    "index.html": "/generational-dashboard/index.html",
+    "main.92c8d4eb.css.map": "/generational-dashboard/static/css/main.92c8d4eb.css.map",
+    "main.47fa4b48.js.map": "/generational-dashboard/static/js/main.47fa4b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.47fa4b48.js"
+  ]
+}
